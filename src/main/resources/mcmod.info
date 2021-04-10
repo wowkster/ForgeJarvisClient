@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jarvis_client",
+  "name": "Jarvis Client",
+  "description": "PVP Client with a sci-fi aesthetic",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wowkster"],
+  "credits": "Wowkster for deving, Ognisko for designing assets",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
